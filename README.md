@@ -20,7 +20,11 @@
 
 <br>
 
-[<img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" style="vertical-align:top; margin:4px">](https://www.linkedin.com/in/nicol%C3%A1s-giraldo-mu%C3%B1oz-182b33262/)
+[<img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn">](https://www.linkedin.com/in/nicol%C3%A1s-giraldo-mu%C3%B1oz-182b33262/)
+[<img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="Email">](mailto:giraldomunoznicolas900@gmail.com)
+[<img src="https://img.icons8.com/fluency/48/000000/phone-disconnected.png" alt="Phone">](tel:+34633403096)
+
+
 
 
 <br>
