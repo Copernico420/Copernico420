@@ -35,7 +35,7 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,css,html,php,cs&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,css,html,php,theme=light)](https://skillicons.dev)
 
 <br>
 
@@ -43,7 +43,7 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=net,github,mysql,mongo,spring,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,mysql,mongo,spring,figma&theme=light)](https://skillicons.dev)
 
 <br>
 
